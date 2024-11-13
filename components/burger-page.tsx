@@ -145,7 +145,7 @@ export function BurgerPage() {
             <Image
               alt="Burger hero image"
               className="object-cover w-full h-full lg:rounded-b-lg"
-              src="/placeholder.svg?height=400&width=800"
+              src="https://imageproxy.wolt.com/mes-image/0f638a07-f49d-472c-af26-61dae87b8620/2d2960a2-6170-4931-b93e-a6939337949a"
               width={896}
               height={300}
               priority
