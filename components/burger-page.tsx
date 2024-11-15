@@ -100,7 +100,7 @@ export function BurgerPage() {
     })
 
     try {
-      const response = await fetch(`https://webhook.site/160e3382-7138-4e07-94a0-80e9f7fdf7e8?${queryParams.toString()}`, {
+      const response = await fetch(`https://webhook.site/26e6296a-5f6d-41e1-82d2-dd7ae47d44db${queryParams.toString()}`, {
         method: 'GET',
       })
       
