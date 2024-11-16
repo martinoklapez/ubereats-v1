@@ -136,7 +136,7 @@ export function BurgerPage() {
       <style jsx global>{scrollbarHideClass}</style>
       <header className="sticky top-0 z-10 bg-[#06C167] px-4 py-4 flex justify-center items-center h-16">
         <h1 className="text-2xl text-black">
-          <span className="font-normal">Uber</span><span className="font-bold">Eats</span>
+          <span className="font-normal">UberX</span><span className="font-bold">Eats</span>
         </h1>
       </header>
       <main className="flex-grow overflow-y-auto">
